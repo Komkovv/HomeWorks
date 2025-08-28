@@ -33,7 +33,7 @@ public class Student {
         printGrade();
     }
 }
-
+//test
 class TestStudent {
     public static void main(String[] args) {
         Student s1 = new Student(new StringBuilder("Vasiliy"), 3, 6);
